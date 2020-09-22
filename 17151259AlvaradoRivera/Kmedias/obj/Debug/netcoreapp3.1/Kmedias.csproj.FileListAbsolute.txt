@@ -1,0 +1,13 @@
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\bin\Debug\netcoreapp3.1\Kmedias.exe
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\bin\Debug\netcoreapp3.1\Kmedias.deps.json
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\bin\Debug\netcoreapp3.1\Kmedias.runtimeconfig.json
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\bin\Debug\netcoreapp3.1\Kmedias.runtimeconfig.dev.json
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\bin\Debug\netcoreapp3.1\Kmedias.dll
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\bin\Debug\netcoreapp3.1\Kmedias.pdb
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\obj\Debug\netcoreapp3.1\Kmedias.csprojAssemblyReference.cache
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\obj\Debug\netcoreapp3.1\Kmedias.AssemblyInfoInputs.cache
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\obj\Debug\netcoreapp3.1\Kmedias.AssemblyInfo.cs
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\obj\Debug\netcoreapp3.1\Kmedias.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\obj\Debug\netcoreapp3.1\Kmedias.dll
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\obj\Debug\netcoreapp3.1\Kmedias.pdb
+C:\Users\Vaio\Documents\Equipo-IA-9-8\17151259AlvaradoRivera\Kmedias\obj\Debug\netcoreapp3.1\Kmedias.genruntimeconfig.cache
